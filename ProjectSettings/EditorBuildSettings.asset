@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 40ec411c3b8791e42be0c2dd4c4e3750
+  - enabled: 1
+    path: Assets/Scenes/TankGame.unity
+    guid: 3ae34495b1eef924a85b0b6c6e60aaca
+  m_configObjects: {}
